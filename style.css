@@ -1,0 +1,17 @@
+.box1 h2 {
+    float: left;
+}
+
+.box1 button {
+    float: right;
+}
+
+.error {
+    text-align: center;
+    color: red;
+}
+
+.ok {
+    text-align: center;
+    color: green;
+}
